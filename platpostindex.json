@@ -1,7 +1,14 @@
 [
   {
-    "LockdownMode": false,
-    "DexVersion": "3.1 Beta",
-    "Type": 2
+    "SoftwareUpdate": false,
+    "UpdateVersion": "No Updates"
+  },
+  {
+    "CurrentSoftwareVersion": "1.1",
+    "CurrentUIVersion": "1.1"
+  },
+  {
+    "Lockdown": false,
+    "ClassDex": "1.1"
   }
 ]
