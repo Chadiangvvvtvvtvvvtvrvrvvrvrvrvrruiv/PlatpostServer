@@ -1,7 +1,8 @@
 [
   {
     "SoftwareUpdate": false,
-    "UpdateVersion": "No Updates"
+    "UpdateVersion": "No Updates",
+    "LinkUpdate": "No Link For Update"
   },
   {
     "CurrentSoftwareVersion": "1.1",
